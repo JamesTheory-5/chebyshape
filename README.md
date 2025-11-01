@@ -318,3 +318,7 @@ python chebyshape.py input.wav --f0 220 --N 24 --K 20 \
 ---
 
 Would you like me to add a **`--batch` mode** next — so you can feed a folder of WAVs and automatically produce a JSON report per file (for dataset or plugin calibration work)?
+
+# Reference
+
+https://www.dafx.de/paper-archive/2010/DAFx10/TimoneyLazzariniGibneyPekonen_DAFx10_P65.pdf
